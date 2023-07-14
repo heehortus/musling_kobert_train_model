@@ -30,4 +30,4 @@
 <br/>
 
 ## Flask 구동 결과
-    <img src="https://user-images.githubusercontent.com/108612816/253498368-fbd66374-9052-4c86-a1da-937132d15a13.png" width="700px">
+  <img src="https://user-images.githubusercontent.com/108612816/253498368-fbd66374-9052-4c86-a1da-937132d15a13.png" width="700px">
