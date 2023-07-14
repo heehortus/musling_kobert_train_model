@@ -26,3 +26,5 @@
 
 ## 다중 문장 처리
   * 여러 개의 문장으로 이루어진 일기의 특성 상 다중 문장을 처리해야 함.
+    - predict()
+      <img src="https://user-images.githubusercontent.com/108612816/253501199-f939cbf9-199d-482a-934d-421867515a3b.png" width="700px">
